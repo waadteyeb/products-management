@@ -172,7 +172,7 @@ id
 
 .Note: Only users with the admin role can execute this mutation. If the token is for a user role, the request will be rejected with a "Forbidden" error.
 
-#### Testing
+# Testing
 
 ## Server Side
 
